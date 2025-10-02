@@ -11,7 +11,7 @@ Banner text!
 ### **About**
 
 ```{r, echo = FALSE, results = 'asis'}
-borrow_chapter("03-using-containers.qmd",
+cow::borrow_chapter("03-using-containers.qmd",
                 repo = "fhdsl/Containers_for_Scientists",
                 remove_h1 = TRUE)
 ```
