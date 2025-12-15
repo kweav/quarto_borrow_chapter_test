@@ -12,7 +12,7 @@ Banner text!
 
 ```{r, echo = FALSE, results = 'asis'}
 ottrpal::borrow_chapter("03-using-containers.qmd",
-                repo = "fhdsl/Containers_for_Scientists",
+                repo_name = "fhdsl/Containers_for_Scientists",
                 remove_h1 = TRUE)
 ```
 
